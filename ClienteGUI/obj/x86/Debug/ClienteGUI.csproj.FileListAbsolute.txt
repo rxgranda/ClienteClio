@@ -1,0 +1,8 @@
+C:\Users\Roger\Documents\Visual Studio 2010\Projects\ClienteClioTest\ClienteGUI\bin\Debug\ClienteGUI.exe
+C:\Users\Roger\Documents\Visual Studio 2010\Projects\ClienteClioTest\ClienteGUI\bin\Debug\ClienteGUI.pdb
+C:\Users\Roger\Documents\Visual Studio 2010\Projects\ClienteClioTest\ClienteGUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Roger\Documents\Visual Studio 2010\Projects\ClienteClioTest\ClienteGUI\obj\x86\Debug\ClienteGUI.Properties.Resources.resources
+C:\Users\Roger\Documents\Visual Studio 2010\Projects\ClienteClioTest\ClienteGUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Roger\Documents\Visual Studio 2010\Projects\ClienteClioTest\ClienteGUI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Roger\Documents\Visual Studio 2010\Projects\ClienteClioTest\ClienteGUI\obj\x86\Debug\ClienteGUI.exe
+C:\Users\Roger\Documents\Visual Studio 2010\Projects\ClienteClioTest\ClienteGUI\obj\x86\Debug\ClienteGUI.pdb

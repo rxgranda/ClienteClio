@@ -1,0 +1,5 @@
+C:\Users\Roger\Documents\Visual Studio 2010\Projects\ClienteClioTest\Library\bin\Debug\Library.exe
+C:\Users\Roger\Documents\Visual Studio 2010\Projects\ClienteClioTest\Library\bin\Debug\Library.pdb
+C:\Users\Roger\Documents\Visual Studio 2010\Projects\ClienteClioTest\Library\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Roger\Documents\Visual Studio 2010\Projects\ClienteClioTest\Library\obj\x86\Debug\Library.exe
+C:\Users\Roger\Documents\Visual Studio 2010\Projects\ClienteClioTest\Library\obj\x86\Debug\Library.pdb

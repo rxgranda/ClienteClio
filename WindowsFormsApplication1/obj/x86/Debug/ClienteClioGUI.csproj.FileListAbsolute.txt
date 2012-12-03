@@ -1,0 +1,11 @@
+C:\Users\Roger\Documents\Visual Studio 2010\Projects\ClienteClioTest\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Roger\Documents\Visual Studio 2010\Projects\ClienteClioTest\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Roger\Documents\Visual Studio 2010\Projects\ClienteClioTest\WindowsFormsApplication1\bin\Debug\ClienteClioTest.exe
+C:\Users\Roger\Documents\Visual Studio 2010\Projects\ClienteClioTest\WindowsFormsApplication1\bin\Debug\ClienteClioTest.pdb
+C:\Users\Roger\Documents\Visual Studio 2010\Projects\ClienteClioTest\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Roger\Documents\Visual Studio 2010\Projects\ClienteClioTest\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Roger\Documents\Visual Studio 2010\Projects\ClienteClioTest\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Roger\Documents\Visual Studio 2010\Projects\ClienteClioTest\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Roger\Documents\Visual Studio 2010\Projects\ClienteClioTest\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Roger\Documents\Visual Studio 2010\Projects\ClienteClioTest\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Roger\Documents\Visual Studio 2010\Projects\ClienteClioTest\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb

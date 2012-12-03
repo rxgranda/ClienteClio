@@ -1,0 +1,13 @@
+C:\Users\Roger\Documents\Visual Studio 2010\Projects\ClienteClioTest\ClienteClioTest\bin\Debug\ClienteClioTest.exe
+C:\Users\Roger\Documents\Visual Studio 2010\Projects\ClienteClioTest\ClienteClioTest\bin\Debug\ClienteClioTest.pdb
+C:\Users\Roger\Documents\Visual Studio 2010\Projects\ClienteClioTest\ClienteClioTest\bin\Debug\ClienteGUI.exe
+C:\Users\Roger\Documents\Visual Studio 2010\Projects\ClienteClioTest\ClienteClioTest\bin\Debug\Library.exe
+C:\Users\Roger\Documents\Visual Studio 2010\Projects\ClienteClioTest\ClienteClioTest\bin\Debug\ClienteGUI.pdb
+C:\Users\Roger\Documents\Visual Studio 2010\Projects\ClienteClioTest\ClienteClioTest\bin\Debug\Library.pdb
+C:\Users\Roger\Documents\Visual Studio 2010\Projects\ClienteClioTest\ClienteClioTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Roger\Documents\Visual Studio 2010\Projects\ClienteClioTest\ClienteClioTest\obj\x86\Debug\ClienteClioTest.ProjectInstaller.resources
+C:\Users\Roger\Documents\Visual Studio 2010\Projects\ClienteClioTest\ClienteClioTest\obj\x86\Debug\ClienteClioTest.ClienteClioTest.resources
+C:\Users\Roger\Documents\Visual Studio 2010\Projects\ClienteClioTest\ClienteClioTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Roger\Documents\Visual Studio 2010\Projects\ClienteClioTest\ClienteClioTest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Roger\Documents\Visual Studio 2010\Projects\ClienteClioTest\ClienteClioTest\obj\x86\Debug\ClienteClioTest.exe
+C:\Users\Roger\Documents\Visual Studio 2010\Projects\ClienteClioTest\ClienteClioTest\obj\x86\Debug\ClienteClioTest.pdb
