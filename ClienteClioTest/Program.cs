@@ -29,8 +29,10 @@ namespace ClienteClioTest
             workerThread.Start();
 
             while (!workerThread.IsAlive);
+            
+            
             int port = 11001;
-            AsynchronousSocketListenerService.StartListening(port);
+             AsynchronousSocketListenerService.StartListening(port);
             
           //   AsynchronousSocketListener.servicioCliente
             

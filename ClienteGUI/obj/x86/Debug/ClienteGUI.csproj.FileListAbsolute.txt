@@ -6,3 +6,4 @@ C:\Users\Roger\Documents\Visual Studio 2010\Projects\ClienteClioTest\ClienteGUI\
 C:\Users\Roger\Documents\Visual Studio 2010\Projects\ClienteClioTest\ClienteGUI\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Users\Roger\Documents\Visual Studio 2010\Projects\ClienteClioTest\ClienteGUI\obj\x86\Debug\ClienteGUI.exe
 C:\Users\Roger\Documents\Visual Studio 2010\Projects\ClienteClioTest\ClienteGUI\obj\x86\Debug\ClienteGUI.pdb
+C:\Users\Roger\Documents\Visual Studio 2010\Projects\ClienteClioTest\ClienteGUI\obj\x86\Debug\ClienteGUI.ClioGUI.resources
